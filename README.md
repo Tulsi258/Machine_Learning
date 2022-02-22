@@ -8,11 +8,11 @@ Machine Learning is classified into the following categories:
 2. Unsupervised Learning
 3. Reinforcement Learning
 
-**1. Supervised Learning**
+**1. Supervised Learning: **
 It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately.
 Supervised Learning can be classified into two parts i.e. Classification and Regression.
 
-**a) Classification**
+**a) Classification: **
 It accurately assign test data into specific categories based on the train data (label data). 
 It recognizes specific entities within the dataset and attempts to draw some conclusions on how those entities should be labeled or defined.
 Examples:
@@ -21,7 +21,7 @@ Examples:
 - K-Nearest Neighbor 
 - Random Forest
 
-**b) Regression**
+**b) Regression: **
 It is used to understand the relationship between dependent and independent variables. 
 To predict a continuous outcome (y: Dependent Variable) based on the value of one or more predictor variables (x: Independent Variable). 
 Examples:
