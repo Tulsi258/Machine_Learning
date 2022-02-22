@@ -41,3 +41,14 @@ The following are the types of regression:
 - Random Forest Regression
 - Ridge Regression
 - Lasso Regression:
+
+**2. Unsupervised Learning**
+Unsupervised learning is the training of a machine using information that is neither classified nor labeled and allowing the algorithm to act on 
+that information without guidance. Unsupervised learning is utilized for mainly three tasks — clustering, association, and dimensionality reduction.
+The unsupervised learning can be further categorized into two types i.e. Clustering and Association.
+
+**a) Clustering:**
+Clustering is a method of grouping the objects into clusters such that objects with most similarities remains into a group and has less or no similarities with the objects of another group.
+
+**b) Association:**
+An association rule is an unsupervised learning method which is used for finding the relationships between variables in the large database. It determines the set of items that occurs together in the dataset.
