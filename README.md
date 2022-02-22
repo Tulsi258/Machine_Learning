@@ -12,15 +12,15 @@ Machine Learning is classified into the following categories:
 It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately.
 Supervised Learning can be classified into two parts i.e. Classification and Regression.
 
-**a) Classification**
-It accurately assign test data into specific categories based on the train data (label data). 
-It recognizes specific entities within the dataset and attempts to draw some conclusions on how those entities should be labeled or defined.
-Examples:
-- Support Vector Machine (SVM)
-- Decision Tree
-- K-Nearest Neighbor 
-- Random Forest
+  **a) Classification**
+    It accurately assign test data into specific categories based on the train data (label data). 
+    It recognizes specific entities within the dataset and attempts to draw some conclusions on how those entities should be labeled or defined.
+    Examples:
+    - Support Vector Machine (SVM)
+    - Decision Tree
+    - K-Nearest Neighbor 
+    - Random Forest
 
-**b) Regression**
-It is used to understand the relationship between dependent and independent variables. 
-To predict a continuous outcome (y: Dependent Variable) based on the value of one or more predictor variables (x: Independent Variable). 
+   **b) Regression**
+    It is used to understand the relationship between dependent and independent variables. 
+    To predict a continuous outcome (y: Dependent Variable) based on the value of one or more predictor variables (x: Independent Variable). 
