@@ -22,7 +22,7 @@ Clasification can further divided into two parts:
 - Logistic Regression
 - Support Vector Machines
 
-***ii.Non-linear***
+***ii. Non-linear***
 - K-Nearest Neighbours
 - Kernel SVM
 - Naïve Bayes
@@ -32,7 +32,7 @@ Clasification can further divided into two parts:
 **b) Regression:**
 It is used to understand the relationship between dependent and independent variables. 
 To predict a continuous outcome (y: Dependent Variable) based on the value of one or more predictor variables (x: Independent Variable). 
-Examples:
+The following are the types of regression:
 - Linear Regression
 - Logistic Regression
 - Polynomial Regression
