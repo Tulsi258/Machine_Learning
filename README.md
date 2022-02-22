@@ -17,6 +17,7 @@ It accurately assign test data into specific categories based on the train data 
 It recognizes specific entities within the dataset and attempts to draw some conclusions on how those entities should be labeled or defined.
 
 Clasification can further divided into two parts:
+
 ***i. Linear***
 - Logistic Regression
 - Support Vector Machines
