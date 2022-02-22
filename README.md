@@ -15,11 +15,18 @@ Supervised Learning can be classified into two parts i.e. Classification and Reg
 **a) Classification:**
 It accurately assign test data into specific categories based on the train data (label data). 
 It recognizes specific entities within the dataset and attempts to draw some conclusions on how those entities should be labeled or defined.
-Examples:
-- Support Vector Machine (SVM)
-- Decision Tree
-- K-Nearest Neighbor 
-- Random Forest
+
+Clasification can further divided into two parts:
+***i. Linear***
+- Logistic Regression
+- Support Vector Machines
+
+***ii.Non-linear***
+- K-Nearest Neighbours
+- Kernel SVM
+- Naïve Bayes
+- Decision Tree Classification
+- Random Forest Classification
 
 **b) Regression:**
 It is used to understand the relationship between dependent and independent variables. 
