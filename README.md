@@ -27,4 +27,9 @@ To predict a continuous outcome (y: Dependent Variable) based on the value of on
 Examples:
 - Linear Regression
 - Logistic Regression
-
+- Polynomial Regression
+- Support Vector Regression
+- Decision Tree Regression
+- Random Forest Regression
+- Ridge Regression
+- Lasso Regression:
