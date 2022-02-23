@@ -8,6 +8,9 @@ Machine Learning is classified into the following categories:
 2. Unsupervised Learning
 3. Reinforcement Learning
 
+![App Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fwhat-are-the-types-of-machine-learning-e2b9e5d1756f&psig=AOvVaw2MRrr6njR0kZOInz89z_-Q&ust=1645588347988000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD12Lu0kvYCFQAAAAAdAAAAABAh)
+
+
 **1. Supervised Learning:**
 It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately.
 Supervised Learning can be classified into two parts i.e. Classification and Regression.
@@ -55,4 +58,5 @@ An association rule is an unsupervised learning method which is used for finding
 
 **References:**
 
-https://www.javatpoint.com/unsupervised-machine-learning
+1. https://www.javatpoint.com/unsupervised-machine-learning
+2. https://towardsdatascience.com/what-are-the-types-of-machine-learning-e2b9e5d1756f
