@@ -8,6 +8,7 @@ Machine Learning is classified into the following categories:
 2. Unsupervised Learning
 3. Reinforcement Learning
 
+
 ![App Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fwhat-are-the-types-of-machine-learning-e2b9e5d1756f&psig=AOvVaw2MRrr6njR0kZOInz89z_-Q&ust=1645588347988000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD12Lu0kvYCFQAAAAAdAAAAABAh)
 
 
