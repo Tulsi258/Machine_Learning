@@ -52,3 +52,6 @@ Clustering is a method of grouping the objects into clusters such that objects w
 
 **b) Association:**
 An association rule is an unsupervised learning method which is used for finding the relationships between variables in the large database. It determines the set of items that occurs together in the dataset.
+
+**References:**
+https://www.javatpoint.com/unsupervised-machine-learning
