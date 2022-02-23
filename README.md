@@ -4,9 +4,10 @@ Machine learning a sub-part of Artificial Intelligence. It was defined in the 19
 Machine Learning stated by Tom M. Mitchell as "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E".
 
 Machine Learning is classified into the following categories:
-1. Supervised Learning
-2. Unsupervised Learning
-3. Reinforcement Learning
+
+  1. Supervised Learning
+  2. Unsupervised Learning
+  3. Reinforcement Learning
 
 
 ![App Screenshot](https://miro.medium.com/max/1204/0*-068ud_-o3ajwq_z.jpg)
@@ -24,28 +25,31 @@ It recognizes specific entities within the dataset and attempts to draw some con
 Clasification can further divided into two parts:
 
 ***i. Linear***
-- Logistic Regression
-- Support Vector Machines
+
+  - Logistic Regression
+  - Support Vector Machines
 
 ***ii. Non-linear***
-- K-Nearest Neighbours
-- Kernel SVM
-- Naïve Bayes
-- Decision Tree Classification
-- Random Forest Classification
+
+  - K-Nearest Neighbours
+  - Kernel SVM
+  - Naïve Bayes
+  - Decision Tree Classification
+  - Random Forest Classification
 
 **b) Regression:**
 It is used to understand the relationship between dependent and independent variables. 
 To predict a continuous outcome (y: Dependent Variable) based on the value of one or more predictor variables (x: Independent Variable). 
 The following are the types of regression:
-- Linear Regression
-- Logistic Regression
-- Polynomial Regression
-- Support Vector Regression
-- Decision Tree Regression
-- Random Forest Regression
-- Ridge Regression
-- Lasso Regression:
+
+  - Linear Regression
+  - Logistic Regression
+  - Polynomial Regression
+  - Support Vector Regression
+  - Decision Tree Regression
+  - Random Forest Regression
+  - Ridge Regression
+  - Lasso Regression
 
 **2. Unsupervised Learning**
 Unsupervised learning is the training of a machine using information that is neither classified nor labeled and allowing the algorithm to act on 
@@ -60,5 +64,5 @@ An association rule is an unsupervised learning method which is used for finding
 
 **References:**
 
-1. https://www.javatpoint.com/unsupervised-machine-learning
-2. https://towardsdatascience.com/what-are-the-types-of-machine-learning-e2b9e5d1756f
+  1. https://www.javatpoint.com/unsupervised-machine-learning
+  2. https://towardsdatascience.com/what-are-the-types-of-machine-learning-e2b9e5d1756f
