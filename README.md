@@ -10,7 +10,7 @@ Machine Learning is classified into the following categories:
 
 
 ![App Screenshot](https://miro.medium.com/max/1204/0*-068ud_-o3ajwq_z.jpg)
-
+                            Fig: Types of Machine Learning [2]
 
 **1. Supervised Learning:**
 It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately.
